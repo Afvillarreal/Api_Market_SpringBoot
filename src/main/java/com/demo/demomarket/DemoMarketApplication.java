@@ -10,4 +10,5 @@ public class DemoMarketApplication {
 		SpringApplication.run(DemoMarketApplication.class, args);
 	}
 
+
 }

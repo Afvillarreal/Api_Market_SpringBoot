@@ -6,7 +6,6 @@ import javax.persistence.*;
 @Table(name = "productos")
 public class Producto {
 
-    //FALTAN COMPRAS CATEGORIA CLIENTE
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     @Column(name = "id_producto")
